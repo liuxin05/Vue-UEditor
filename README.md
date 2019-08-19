@@ -1,4 +1,6 @@
-# vue-ueditor-wrap-demo
+# 纯属膜拜大神的demo作为个人学习
+### 在项目中也有遇到编辑器的问题，个人学习尝试哪个比较符合产品需求
+## vue-ueditor-wrap-demo
 
 > demo based on vue-cli for [vue-ueditor-wrap](https://github.com/HaoChuan9421/vue-ueditor-wrap)
 
